@@ -1,5 +1,6 @@
 :root{
   --main-blue: #489ce0;
+  --main-orange: #fe9400;
 }
 /* *{
   outline: 1rem solid red;
@@ -15,4 +16,7 @@ div.header{
 }
 .bg-main-black{
   background-color: #272424;
+}
+.font-color-orange{
+  color: var(--main-orange);
 }
