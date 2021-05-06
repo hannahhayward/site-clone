@@ -1,0 +1,18 @@
+:root{
+  --main-blue: #489ce0;
+}
+/* *{
+  outline: 1rem solid red;
+} */
+div.header{
+  background: url(https://us-rd.gr-cdn.com/1928x/https://us-wd.gr-cdn.com/blog/sites/5/2019/10/1058/entrepreneur-593377_1920.jpg);
+}
+.bg-main-blue{
+  background-color: var(--main-blue);
+}
+.bg-main-image{
+  background: url(https://us-rd.gr-cdn.com/1928x/https://us-wd.gr-cdn.com/blog/sites/5/2019/10/1058/entrepreneur-593377_1920.jpg)
+}
+.bg-main-black{
+  background-color: #272424;
+}
